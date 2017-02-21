@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_ab5b56053075ffc677f3626b7ea4ca2beea34dca\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_ab5b56053075ffc677f3626b7ea4ca2beea34dca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_de796edf8db4936388932b09239da5f384b9697b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_5875ca5fdbc6b85d0a2b44088ee7aae221595ea3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_5875ca5fdbc6b85d0a2b44088ee7aae221595ea3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_de796edf8db4936388932b09239da5f384b9697b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_6e0bed067c3ea20ac70cf82d7210da6402b1d212\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_819a38040aad8a4eddb4446f25a38cc55f457293\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_a9d2bef18fdaa8ea4eb2c4b4dde451a37d516ebc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_89e20330bedd234375cfdd80db81c2f0880ba2b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_819a38040aad8a4eddb4446f25a38cc55f457293.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_a9d2bef18fdaa8ea4eb2c4b4dde451a37d516ebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_89e20330bedd234375cfdd80db81c2f0880ba2b4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_9a484606cacf5c2594d14489db12c10ca2f4259d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e64aaf3989753d66441d31223ab79772b471ff1">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b0ed4730cda5b8f238d52aaad7977ccdce8863b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_9a484606cacf5c2594d14489db12c10ca2f4259d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a7507a9e6e9bebe5f179522d2b2e8b8133a22869">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6f8102ce6c75a1ffb090f2a96a0ff8a865312ec7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\GoogleDictionaryExample\googledictionary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ac29f5861e492a50658b83b5e591a9b0b71b6bba">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\pre-dexed\debug\GoogleDictionaryExample-googledictionary-unspecified_fa9f98a99e42f56d96cb6224b978664f5bf64b5d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_af99755bd5147afda2c04835c4a612d5e7809c73\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_96db741368cab8c3283cb3dc8bda6165b82fdbe4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_96db741368cab8c3283cb3dc8bda6165b82fdbe4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_6e0bed067c3ea20ac70cf82d7210da6402b1d212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_af99755bd5147afda2c04835c4a612d5e7809c73.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_c20c09e5b26d3e66255a310b397e1ec311d10123\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_8ffc1cc0e5c099e9e400cf1ffca9c86598b637e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_c20c09e5b26d3e66255a310b397e1ec311d10123.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chizoba\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_dc8877658202a51cf40b05ba746c50fbb883fbeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chizoba\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_dc8877658202a51cf40b05ba746c50fbb883fbeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Chizoba\AndroidStudioProjects\GoogleDictionaryExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_8ffc1cc0e5c099e9e400cf1ffca9c86598b637e4.jar" />
+    </item>
+
+</items>
