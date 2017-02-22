@@ -15,6 +15,6 @@
         android:textSize="24sp"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Hello World!"
+        android:text="@string/lorem_ipsum"
         android:textIsSelectable="true"/>
 </RelativeLayout>
