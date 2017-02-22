@@ -1,1 +1,1 @@
-include ':app', ':googledictionary'
+include ':sample', ':google-dictionary'

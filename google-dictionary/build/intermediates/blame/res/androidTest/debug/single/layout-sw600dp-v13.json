@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Chizoba\\AndroidStudioProjects\\GoogleDictionaryExample\\google-dictionary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Chizoba\\AndroidStudioProjects\\GoogleDictionaryExample\\google-dictionary\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chizoba\\AndroidStudioProjects\\GoogleDictionaryExample\\googledictionary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Chizoba\\AndroidStudioProjects\\GoogleDictionaryExample\\googledictionary\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]

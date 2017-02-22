@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.chizoba</groupId>
+  <artifactId>google-dictionary</artifactId>
+  <version>1.0.0</version>
+  <packaging>aar</packaging>
+  <name>GoogleDictionary</name>
+  <description>An android library that provides easy access to meanings of any word, phrase, or slang via Google, within any application.</description>
+  <url>https://github.com/chizoba/google-dictionary</url>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>ChizobaOgbonna</id>
+      <name>Chizoba Ogbonna</name>
+      <email>ogbonnacj2@gmail.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>https://github.com/chizoba/google-dictionary.git</connection>
+    <developerConnection>https://github.com/chizoba/google-dictionary.git</developerConnection>
+    <url>https://github.com/chizoba/google-dictionary</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>appcompat-v7</artifactId>
+      <version>25.1.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>design</artifactId>
+      <version>25.1.1</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>

@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\Chizoba\\AppData\\Local\\Android\\sdk\\platforms\\android-25\\android.jar'
+-d 'C:\\Users\\Chizoba\\AndroidStudioProjects\\GoogleDictionaryExample\\google-dictionary\\build\\docs\\javadoc'
+-doctitle 'google-dictionary 1.0.0 API'
+-quiet 
+-windowtitle 'google-dictionary 1.0.0 API'
+'C:\\Users\\Chizoba\\AndroidStudioProjects\\GoogleDictionaryExample\\google-dictionary\\src\\main\\java\\com\\techies\\googledictionary\\GoogleDictionary.java'
+'C:\\Users\\Chizoba\\AndroidStudioProjects\\GoogleDictionaryExample\\google-dictionary\\src\\main\\java\\com\\techies\\googledictionary\\MyBSDF.java'

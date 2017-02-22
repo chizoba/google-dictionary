@@ -1,0 +1,39 @@
+apply plugin: 'com.github.dcendents.android-maven'
+
+group = 'com.github.chizoba' // CREATE A GROUP ID FOR YOUR LIBRARY
+
+install {
+    repositories.mavenInstaller {
+        pom {
+            project {
+                packaging 'aar'
+                groupId 'com.github.chizoba' // CREATE A GROUP ID FOR YOUR LIBRARY
+                artifactId 'google-dictionary' // THE NAME OF YOUR MODULE
+
+                name 'GoogleDictionary' // YOUR LIBRARY NAME
+                description 'An android library that provides easy access to meanings of any word, phrase, or slang via Google, within any application.' // YOUR LIBRARY DESCRIPTION
+                url 'https://github.com/chizoba/google-dictionary' // YOUR SITE
+
+                licenses {
+                    license {
+                        name 'The Apache Software License, Version 2.0'
+                        url 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+                    }
+                }
+                developers {
+                    developer {
+                        id 'ChizobaOgbonna' //YOUR ID
+                        name 'Chizoba Ogbonna' //YOUR NAME
+                        email 'ogbonnacj2@gmail.com' //YOUR EMAIL
+                    }
+                }
+                scm {
+                    connection 'https://github.com/chizoba/google-dictionary.git' // YOUR GIT REPO
+                    developerConnection 'https://github.com/chizoba/google-dictionary.git' // YOUR GIT REPO
+                    url 'https://github.com/chizoba/google-dictionary' // YOUR SITE
+
+                }
+            }
+        }
+    }
+}
