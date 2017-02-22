@@ -3,6 +3,8 @@ Google Dictionary
 
 Want to easily check the meaning of any word, phrase or slang in your app? Just import this ;) 
 
+![alt tag](https://github.com/chizoba/google-dictionary/blob/master/google-dictionary-preview.gif)
+
 ## Setting up
 
 ### Dependency
