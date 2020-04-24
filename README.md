@@ -21,7 +21,7 @@ Want to easily check the meaning of any word, phrase or slang in your app? Just 
 
 *  Gradle
 ```groovy
-compile 'com.github.chizoba:google-dictionary:1.0.0'
+implementation 'com.github.chizoba:google-dictionary:1.0.0'
 ```
 
 ## Usage
